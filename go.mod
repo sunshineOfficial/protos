@@ -1,4 +1,4 @@
-module protos
+module github.com/sunshineOfficial/protos
 
 go 1.23.1
 
